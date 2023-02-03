@@ -1,0 +1,6 @@
+# Export & Object Folders
+obj/*
+bin/*
+# User Specific Folders
+.vscode/*
+# 
