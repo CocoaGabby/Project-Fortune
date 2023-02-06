@@ -1,0 +1,1 @@
+Fortune sort of outlived itself before it even became useful, I realised the direction I was taking with it just wasn't what I wanted for my projects. I'm going to keep it up here, however, archived somewhere, as I don't make note of my projects too often. I hope someday I'll find some use in it, or someone else will, who knows? Farewell, Project Fortune.
